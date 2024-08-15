@@ -10,13 +10,9 @@ Here is an example python tutorial!
 #### ~ tutorialhint
 Here's a hint.
 
-```python
-pass
-```
 
-
-```template
-player.onChat("run", function on_on_chat() {
-    
-})
+```python-template
+def on_on_chat():
+    pass
+player.on_chat("run", on_on_chat)
 ```
