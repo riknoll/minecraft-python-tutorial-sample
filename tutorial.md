@@ -12,7 +12,11 @@ Here's a hint.
 
 
 ```python-template
-def on_on_chat():
-    pass
-player.on_chat("run", on_on_chat)
+custom.say_hello("Richard")
+custom.snake_case_also_works(10);
+```
+
+
+```package
+minecraft-python-extension-sample=github:riknoll/minecraft-python-extension-sample#v0.0.1
 ```
