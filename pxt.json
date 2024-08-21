@@ -1,13 +1,15 @@
 {
     "name": "minecraft-python-tutorial-sample",
-    "version": "0.0.3",
+    "version": "0.0.4",
     "description": "",
     "dependencies": {
         "core": "*",
         "builder": "*"
     },
     "files": [
-        "tutorial.md"
+        "tutorial.md",
+        "activity1.md",
+        "activity2.md"
     ],
     "testFiles": [],
     "public": true,
